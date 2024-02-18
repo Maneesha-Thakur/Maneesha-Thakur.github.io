@@ -588,11 +588,6 @@ margin-bottom: 15px;
 
 
 
-
-
-
-
-
 @keyframes slideRight{
     0%{
         transform: translateX(-100px);
@@ -633,3 +628,6 @@ margin-bottom: 15px;
         opacity: 1;
     }
 }
+
+
+
