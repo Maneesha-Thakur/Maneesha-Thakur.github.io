@@ -197,6 +197,11 @@ margin-left: 120px;
 .bar{
     font-size: 99px;
 }
+.Technical-bars{
+    display: flex;
+    gap:30px;
+   /* margin-bottom:20x */
+}
 .Technical-bars .bar{
 margin-top: 40px 0;
 }
@@ -397,8 +402,12 @@ animation: animate-bar 1s linear forwards;
 .main-text h2 span{
     color: #0ef;
 }
+#portfolio{
+    margin-top: 0px;
+}
 .portfolio-content{
     display: grid;
+
     grid-template-columns: repeat(auto-fit, minmax(380px, auto));
 }
 .row{
