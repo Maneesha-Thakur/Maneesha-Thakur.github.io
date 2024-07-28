@@ -415,6 +415,7 @@ animation: animate-bar 1s linear forwards;
     overflow: hidden;
     border-radius: 8px;
     cursor: pointer;
+    margin-right: 3px;
 }
 .row img{
     width: 100%;
